@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, ContentType
 
 
-API_TOKEN: str = '6339742151:AAGa3WqMwCQG7S522um2hqN4-3k4V2lVIas'
+API_TOKEN: str = '....'
 
 
 # Создаем объекты бота и деспетчера
